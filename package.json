@@ -23,7 +23,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "json-server --watch fakeserver/db.json --port 3030"
+    "start": "node server.js"
   },
   "eslintConfig": {
     "extends": [
